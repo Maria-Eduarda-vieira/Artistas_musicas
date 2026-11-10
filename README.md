@@ -44,12 +44,14 @@ Nesta etapa do projeto **Artistas e Músicas (Fase 2)**, transformamos as págin
 
 ### 📂 Conteúdo do Portfólio
 
-| Módulo / Página | Recursos e Conteúdo | 
-| :--- | :--- | :--- |
-| **Autenticação (`login.php`)** | Tela de login protegida com criptografia Bcrypt (`password_verify`) e controle de sessão. | 
-| **Menu Principal (`index.php`)** | Painel principal dinâmico que exibe a saudação ao usuário(ola, admin!)logado e atalhos para os módulos. |
-| **Gerenciar Artistas (`cadastro_artista.php`)** | Formulário de cadastro/edição (CRUD completo) de artistas com upload de foto e validação. | 
-| **Cadastrar Músicas (`cadastro_musica.php`)** | Vínculo de músicas ao artista (chave estrangeira), cadastro de álbum, letra, capa e link do YouTube. | 
+### 📂 Conteúdo do Portfólio
+
+| Módulo / Página | Recursos e Conteúdo |
+| :--- | :--- |
+| **Autenticação (`login.php`)** | Tela de login protegida com criptografia Bcrypt (`password_verify`) e controle de sessão. |
+| **Menu Principal (`index.php`)** | Painel principal que exibe a saudação ao usuário logado ("Olá, admin!") e atalhos para os módulos. |
+| **Gerenciar Artistas (`cadastro_artista.php`)** | Formulário de cadastro/edição (CRUD completo) de artistas com upload de foto e validação. |
+| **Cadastrar Músicas (`cadastro_musica.php`)** | Vínculo de músicas ao artista (chave estrangeira), cadastro de álbum, letra, capa e link do YouTube. |
 | **Biblioteca Musical (`listagem_musicas.php`)** | Consulta interativa com filtros combinados (busca geral, por artista e por gênero) e integração com YouTube. |
 
 ---
