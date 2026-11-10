@@ -42,7 +42,7 @@ Nesta etapa do projeto **Artistas e Músicas (Fase 2)**, transformamos as págin
 
 ---
 
-### 📂 Conteúdo do Portfólio
+
 
 ### 📂 Conteúdo do Portfólio
 
